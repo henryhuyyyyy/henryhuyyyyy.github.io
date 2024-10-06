@@ -1,0 +1,31 @@
+body {
+/* <uniquifier>: Use a unique and descriptive class name
+<weight>: Use a value from 100 to 900 */
+
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:regular;
+    font-style: normal;
+
+    background-color: #fdf0d5;
+}
+.fname {
+    color:#cb0013;
+    
+    font-weight: 500;
+    font-size: 60px;
+}
+
+.title {
+    color:#68696b;
+    font-size: 35px;
+    font-weight: 400;
+}
+.avatar {
+    width: 50%;
+    float: left;
+}
+
+.contact {
+    width: 50%;
+}
